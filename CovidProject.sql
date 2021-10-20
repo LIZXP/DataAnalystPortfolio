@@ -1,3 +1,9 @@
+--only retrive the first 5 rows
+
+SELECT
+FROM
+FETCH FIRST 5 ROWS ONLY;
+
 -----------------------------------------------------------------------------------------------------------------
 --LOOKING AT TOTAL CASES VS TOTAL DEATHS AND ADD R VALUE
 --This will show the reprodiction rate and likelihood of dying if you contract covid in Canada
